@@ -40,7 +40,7 @@ namespace StarWars.ConsoleApp
                     {
                         var starships = starshipService.GetAllWithResupplyCountAsync(distance).Result;
 
-                        Console.WriteLine("\n\nHey there, this sytem worked :) And here is the output: \n");
+                        Console.WriteLine("\n\nHey there, this system worked :) And here is the output: \n");
 
                         starships.ForEach(starship => Console.WriteLine(starship));
                     }

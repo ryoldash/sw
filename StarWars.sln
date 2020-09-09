@@ -11,19 +11,19 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentatio
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{D814DBE7-6B4E-46D2-A0B3-CE71998CEF34}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarWars.Application", "StarWars.Application\StarWars.Application.csproj", "{24E0713C-B8A2-41F5-B726-983D789B8F45}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarWars.Application", "src\StarWars.Application\StarWars.Application.csproj", "{24E0713C-B8A2-41F5-B726-983D789B8F45}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarWars.Core", "StarWars.Core\StarWars.Core.csproj", "{84AB8693-DBDB-4A4A-906A-CE3E151448AF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarWars.Core", "src\StarWars.Core\StarWars.Core.csproj", "{84AB8693-DBDB-4A4A-906A-CE3E151448AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarWars.RestSharp", "StarWars.RestClient\StarWars.RestSharp.csproj", "{01A76B2E-10F9-4D5F-BB55-EE149D0D57B5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarWars.RestSharp", "src\StarWars.RestClient\StarWars.RestSharp.csproj", "{01A76B2E-10F9-4D5F-BB55-EE149D0D57B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarWars.ConsoleApp", "StarWars.ConsoleApp\StarWars.ConsoleApp.csproj", "{2A225A83-CE8F-4E10-9C44-E2B500FD14A5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarWars.ConsoleApp", "src\StarWars.ConsoleApp\StarWars.ConsoleApp.csproj", "{2A225A83-CE8F-4E10-9C44-E2B500FD14A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarWars.Application.Tests", "StarWars.Application.Tests\StarWars.Application.Tests.csproj", "{8C00C8AC-C485-41D6-8EE3-4E404D30A260}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarWars.Application.Tests", "test\StarWars.Application.Tests\StarWars.Application.Tests.csproj", "{8C00C8AC-C485-41D6-8EE3-4E404D30A260}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarWars.Core.Tests", "StarWars.Core.Tests\StarWars.Core.Tests.csproj", "{E2B5C114-63C4-4AB6-A094-0FDF1CE3A3B5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarWars.Core.Tests", "test\StarWars.Core.Tests\StarWars.Core.Tests.csproj", "{E2B5C114-63C4-4AB6-A094-0FDF1CE3A3B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarWars.ApiTests", "StarWars.ApiTests\StarWars.ApiTests.csproj", "{A9B90EA9-DD97-46E7-B59F-E81B32D5E3D2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarWars.ApiTests", "test\StarWars.ApiTests\StarWars.ApiTests.csproj", "{A9B90EA9-DD97-46E7-B59F-E81B32D5E3D2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
