@@ -16,8 +16,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\StarWars.Application\StarWars.Application.csproj" />
-    <ProjectReference Include="..\StarWars.RestClient\StarWars.RestSharp.csproj" />
+    <ProjectReference Include="..\..\src\StarWars.Application\StarWars.Application.csproj" />
+    <ProjectReference Include="..\..\src\StarWars.RestClient\StarWars.RestSharp.csproj" />
   </ItemGroup>
 
   <ItemGroup>

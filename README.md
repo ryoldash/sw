@@ -55,3 +55,9 @@ Folder Structure
 Run the StarWars.ConsoleApp project and you should get the following output. 
 
 ![Output](_screenshots/output.png)
+
+### Running the automated tests
+
+Open Test Explorer, run all tests and you should get the following output. 
+
+![Output](_screenshots/testexplorer.png)

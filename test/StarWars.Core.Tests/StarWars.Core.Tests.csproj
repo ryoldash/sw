@@ -14,7 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\StarWars.Core\StarWars.Core.csproj" />
+    <ProjectReference Include="..\..\src\StarWars.Core\StarWars.Core.csproj" />
   </ItemGroup>
 
 </Project>
